@@ -1,0 +1,138 @@
+{
+  "Header": {
+    "title": "We are ready to Scrape",
+    "paragraph": "Transform how you gather data with seamless web scraping and PDF extraction solutions. Access, view, and export valuable insights effortlessly!"
+ },
+  "About": {
+    "paragraph": "PRIMUS Techsystems is a technology company, headquarter in Pune, Magarpatta and specialize in providing enterprise application services focused on SAP Business Suite.PRIMUS enterprise garden solutions and technology expertise brings to customers a range of enterprise solutions and products that enhance performance and competitiveness.",
+    "Why": [
+      "Industry-specific SAP Best Practices",
+      "Proven business-critical controls",
+      "Agile SAP Activate framework",
+      "ITIL-based ITSM support"
+    ],
+    "Why2": [
+      "Employee talent is prioritized",
+      "Growth opportunities for employees",
+      "Process-oriented customer value",
+      "Strong documentation ensures success."
+    ]
+  },
+  
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "SAP S/4 HANA - Next-Generation ERP Software",
+      "text": "Streamlines finance, supply chain, and product lifecycle management with real-time insights and machine learning, optimizing operations across departments."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "SAP Application Management Support",
+      "text": "Drive business transformation by enhancing IT support and maximizing value from your SAP investment."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": " PRIMUS HQ”, Survey No 34/3, Plot No 4,5,6, Rohan Seher Ln, Pan Card Club Rd, opp. to ABIL Imperia Complex, Baner, Pune, Maharashtra 411045 ",
+    "phone": "+91 7888081000",
+    "email": "info@primustechsys.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Data Extraction & Storage ",
+      "text": "Automatically scrape data from authorized sources and securely store it in various formats."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Customized Display",
+      "text": "Present extracted data in tables, charts, or graphs with search and filter options."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Scheduled Scraping",
+      "text": "Set up periodic data collection from national websites for continuous updates."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Secure Access and Export",
+      "text": "Ensure authorized user access with login credentials and enable data export in multiple formats."
+    }
+  ]
+}
